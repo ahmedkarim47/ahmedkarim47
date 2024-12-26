@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey I'm Ahmed ✌
+
+📚 I’m currently learning Computer Science at UNSW
+
+👯 I’m looking to collaborate on any real world projects using Python or C
+
+📫 How to reach me: ahmedkarimx@gmail.com
+
+😻 Fun fact: I have 2 cats named Avocado and Pepper
+
 
 <!--
 **ahmedkarim47/ahmedkarim47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
